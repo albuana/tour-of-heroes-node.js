@@ -52,4 +52,4 @@
 - npm i express mongoose;
 - npm i nodemon -D 
 - npm run dev;
-- Abrir o browser o Postman e fazer pedidos.
+- Abrir o browser o Postman desktop e fazer pedidos.
