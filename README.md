@@ -44,3 +44,12 @@
 </li>
 <li>Deve ser criado um endpoint adicional (/init - GET) que deve apagar o conteúdo da base de dados e inicializar as coleções que guardam os heroes e o pets com alguns valores.</li>
 </ul>
+
+## Como correr o exercicio?
+- É necessário tem o angular cli instalado. Consultar em https://cli.angular.io;
+- Abrir um terminal na pasta ```tour-of-heroes-node.js/``` e executar os seguintes comandos nessa mesma pasta
+- npm install;
+- npm i express mongoose;
+- npm i nodemon -D 
+- npm run dev;
+- Abrir o browser o Postman e fazer pedidos.
